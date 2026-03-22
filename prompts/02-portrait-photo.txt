@@ -1,0 +1,17 @@
+PROMPT FOR: Lawyer Portrait / Profile Photo (portrait.jpg)
+SIZE: 680x880px (portrait orientation)
+SAVE AS: images/portrait.jpg
+
+---
+
+NOTE: This should be a REAL professional photograph of אודליה.
+Do NOT generate this with AI — use a real photo from a professional photoshoot.
+
+RECOMMENDATIONS FOR THE PHOTOSHOOT:
+- Professional headshot / three-quarter portrait
+- Wearing a dark navy or black blazer, professional attire
+- Confident, warm, approachable smile
+- Neutral or office-like background (soft blur)
+- Warm, flattering studio lighting
+- High resolution (minimum 680x880px)
+- Color-corrected with warm tones to match the site's gold/navy palette

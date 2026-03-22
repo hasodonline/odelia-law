@@ -1,0 +1,7 @@
+PROMPT FOR: Hero Section Background Image (hero-bg.jpg)
+SIZE: 1920x1080px (landscape, high resolution)
+SAVE AS: images/hero-bg.jpg
+
+---
+
+Professional, elegant wide-angle photograph of a modern Israeli law office interior. Warm ambient lighting with golden tones. A polished dark walnut desk with legal books neatly arranged on shelves in the background. Subtle bokeh effect. Soft natural light streaming through floor-to-ceiling windows overlooking an Israeli cityscape. Muted navy and warm gold color palette. No people visible. Clean, minimalist, luxurious atmosphere. Shot with a wide-angle lens, slight depth of field blur. Ultra high quality, photorealistic.

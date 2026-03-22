@@ -1,0 +1,7 @@
+PROMPT FOR: Article Header Image — Corporate Law & Governance (article-corporate.jpg)
+SIZE: 800x400px (landscape, 2:1 ratio)
+SAVE AS: images/article-corporate.jpg
+
+---
+
+Aerial/overhead photograph of a modern boardroom conference table with scattered documents, a laptop, financial charts, and coffee cups. The table is dark polished wood. The documents show graphs and data (not readable). Natural light from large windows reflecting off the polished surface. The scene conveys corporate governance, board meetings, and professional oversight. Dark blue and gold accent tones. No people visible. Clean, sharp, professional atmosphere. Ultra high quality, photorealistic.

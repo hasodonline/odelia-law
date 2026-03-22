@@ -1,0 +1,7 @@
+PROMPT FOR: Article Header Image — Risk Management (article-risk.jpg)
+SIZE: 800x400px (landscape, 2:1 ratio)
+SAVE AS: images/article-risk.jpg
+
+---
+
+Conceptual photograph of a chess board with several pieces positioned mid-game, shot from a low angle. The pieces are made of dark and light wood. Focus is on a king piece standing tall while other pieces are arranged strategically around it. Soft dramatic lighting from one side creates long shadows. The scene symbolizes strategy, foresight, and calculated risk management. Dark moody background. Rich warm tones — dark wood, amber, gold. Ultra high quality, photorealistic.

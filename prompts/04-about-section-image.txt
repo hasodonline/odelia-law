@@ -1,0 +1,10 @@
+PROMPT FOR: About Section Image (about.jpg)
+SIZE: 600x500px (portrait/square-ish)
+SAVE AS: images/about.jpg
+
+---
+
+NOTE: This should ideally be a REAL professional photograph of אודליה.
+If using AI generation as a placeholder, use this prompt:
+
+Professional photograph of a female Israeli lawyer in her early-to-mid 30s, sitting at an elegant dark wood desk in a modern office. She is reviewing legal documents with a confident, focused expression. Wearing a professional dark blazer. Warm office lighting with bookshelves of legal volumes visible in the soft background blur. The scene conveys competence, warmth, and professionalism. Shot in portrait orientation. Golden hour warm tones. High quality, photorealistic.

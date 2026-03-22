@@ -1,0 +1,7 @@
+PROMPT FOR: Article Header Image — Family Law Articles (article-family.jpg)
+SIZE: 800x400px (landscape, 2:1 ratio)
+SAVE AS: images/article-family.jpg
+
+---
+
+Warm, empathetic stock-photo style image symbolizing family law. A wooden gavel resting gently beside two interlocking wedding rings on a polished desk surface. Soft warm lighting with golden bokeh in the background. Subtle depth of field. The mood is gentle and professional — not cold or harsh. Muted, warm color palette (cream, gold, soft brown). No people. Ultra high quality, photorealistic.
