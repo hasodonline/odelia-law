@@ -13,7 +13,7 @@ const SITE_CONFIG = {
   lawyerBarNumber: "67020",               // מספר רישיון לשכת עורכי הדין
   lawyerExperienceYears: "12",            // שנות ניסיון
   lawyerEducation: "LL.B",  // השכלה
-  lawyerMasterDegree: "LL.M, אוניברסיטת בר-אילן", // תואר שני (אם יש)
+  lawyerMasterDegree: "", // תואר שני (אם יש) — אין
   lawyerMediatorCert: "מגשרת מוסמכת מטעם משרד המשפטים", // הסמכת גישור
 
   // === פרטי קשר ===
