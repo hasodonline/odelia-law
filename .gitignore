@@ -3,3 +3,5 @@
 *.swo
 *~
 .env
+.wrangler/
+firebase-debug.log
