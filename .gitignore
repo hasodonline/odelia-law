@@ -5,3 +5,4 @@
 .env
 .wrangler/
 firebase-debug.log
+dist/
