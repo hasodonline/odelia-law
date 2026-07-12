@@ -24,7 +24,10 @@ CACHE_BUSTED = ["config.js", "analytics.js", "style.css"]
 
 SRC = os.path.dirname(os.path.abspath(__file__))
 DIST = os.path.join(SRC, "dist")
-ASSETS = ["index.html", "articles.html", "style.css", "config.js",
+ASSETS = ["index.html", "articles.html",
+          # conversion landing pages (one per Ads ad-group theme)
+          "tzavaot-yerusha.html", "yipuy-koach.html", "gishur.html",
+          "style.css", "config.js",
           "analytics.js", "robots.txt", "sitemap.xml", "_headers"]
 DIRS = ["images", "articles"]
 TEXT_EXT = (".html", ".xml", ".txt", ".js")

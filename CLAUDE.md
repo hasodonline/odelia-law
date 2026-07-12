@@ -123,7 +123,10 @@ mail backend needed).
 - **עו״ד אודליה אייזנקייט** — phone **050-2899933** (`tel:+9720502899933`),
   WhatsApp `https://wa.me/9720502899933`, email **lawodelia@gmail.com**
 - Office: **רחוב ארלוזרוב 17, הוד השרון** (4520317)
-- Credentials: **LL.B + certified mediator (משרד המשפטים)**.
+- Credentials: **LL.B + certified mediator (משרד המשפטים) + certified by the אפוטרופוס הכללי to
+  prepare ייפוי כוח מתמשך** (that last one is a separate, legally *mandatory* certification —
+  only a certified lawyer may draft a ייפוי כוח מתמשך, so the practice area, the `yipuy-koach`
+  landing page and the Ads ad group all depend on it. Confirmed with Keren 2026-07-12.)
   ⚠️ She does **NOT** have a master's degree — never re-add one.
 
 ---
