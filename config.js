@@ -32,9 +32,9 @@ const SITE_CONFIG = {
   fridayHours: "שישי–שבת: סגור",
 
   // === רשתות חברתיות ===
-  facebookUrl: "https://facebook.com/odelia.law",
-  instagramUrl: "https://instagram.com/odelia.law",
-  linkedinUrl: "https://linkedin.com/in/odelia-law",
+  facebookUrl: "https://www.facebook.com/people/%D7%90%D7%95%D7%93%D7%9C%D7%99%D7%94-%D7%90%D7%99%D7%96%D7%A0%D7%A7%D7%99%D7%99%D7%98-%D7%A2%D7%95%D7%A8%D7%9B%D7%AA-%D7%93%D7%99%D7%9F-%D7%95%D7%9E%D7%92%D7%A9%D7%A8%D7%AA-%D7%9E%D7%95%D7%A1%D7%9E%D7%9B%D7%AA/100054779528852/",
+  instagramUrl: "https://www.instagram.com/odelia_eisenkeit/",
+  linkedinUrl: "https://il.linkedin.com/in/odelia-asher-eisenkeit-4a3b6783",
 
   // === SEO ===
   siteTitle: "עו\"ד אודליה אייזנקייט | דיני משפחה, גישור וצוואות | הוד השרון והשרון",
