@@ -7,7 +7,7 @@
  *  Until filled, this file is inert (no errors, no tracking).
  * ============================================================
  */
-var GA_MEASUREMENT_ID = "";                    // e.g. "G-XXXXXXXXXX"
+var GA_MEASUREMENT_ID = "G-VTQ9HQ301F";        // GA4 property "lawodelia.co.il"
 var ADS_CONVERSION = { id: "", label: "" };    // e.g. { id: "AW-123456789", label: "AbC-D_efG" }
 
 (function () {

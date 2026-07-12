@@ -6,3 +6,7 @@
 .wrangler/
 firebase-debug.log
 dist/
+
+# python
+__pycache__/
+*.pyc

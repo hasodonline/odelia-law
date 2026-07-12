@@ -49,5 +49,5 @@ const SITE_CONFIG = {
 
   // === Google ===
   googleMapsEmbed: "https://maps.google.com/maps?q=%D7%A8%D7%97%D7%95%D7%91%20%D7%90%D7%A8%D7%9C%D7%95%D7%96%D7%A8%D7%95%D7%91%2017%20%D7%94%D7%95%D7%93%20%D7%94%D7%A9%D7%A8%D7%95%D7%9F&z=15&output=embed", // לינק מפת גוגל embed
-  googleAnalyticsId: "G-XXXXXXXXXX",      // Google Analytics ID
+  googleAnalyticsId: "G-VTQ9HQ301F",      // Google Analytics ID (GA4)
 };

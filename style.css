@@ -1461,6 +1461,22 @@ ul, ol {
   padding: 60px 24px;
 }
 
+.article-page-image {
+  margin: 0 0 48px;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+  background: var(--navy);
+  aspect-ratio: 2 / 1;
+}
+
+.article-page-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .article-page-content h2 {
   font-size: 1.6rem;
   color: var(--navy);
