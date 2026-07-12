@@ -28,8 +28,8 @@ const SITE_CONFIG = {
   officeZip: "4520317",                   // מיקוד
 
   // === שעות פעילות ===
-  workingHours: "ראשון–חמישי: 09:00–18:00",
-  fridayHours: "שישי: בתיאום מראש",
+  workingHours: "ראשון–חמישי: 08:00–18:00",
+  fridayHours: "שישי–שבת: סגור",
 
   // === רשתות חברתיות ===
   facebookUrl: "https://facebook.com/odelia.law",

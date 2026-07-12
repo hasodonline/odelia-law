@@ -38,6 +38,8 @@
   <meta name="twitter:image" content="__BASE_URL__/images/og-card.jpg">
 
   <!-- Google Fonts -->
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preload" as="image" href="images/hero-bg.jpg" fetchpriority="high">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&family=Heebo:wght@100;300;400;500;700;800;900&display=swap" rel="stylesheet">
@@ -53,6 +55,7 @@
   {
     "@context": "https://schema.org",
     "@type": "LegalService",
+    "@id": "__BASE_URL__/#legalservice",
     "name": "עו״ד אודליה אייזנקייט – משרד עורכי דין",
     "description": "משרד עורכי דין המתמחה בדיני משפחה, גישור, ייפוי כוח מתמשך, צוואות וירושות, דיני חברות וליווי משפטי מקיף ליחידים ולעסקים.",
     "url": "__BASE_URL__",
@@ -74,26 +77,28 @@
       { "@type": "City", "name": "נתניה" }
     ],
     "priceRange": "₪₪₪",
+    "currenciesAccepted": "ILS",
+    "knowsLanguage": ["he", "en", "ru"],
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"],
-        "opens": "09:00",
+        "opens": "08:00",
         "closes": "18:00"
-      },
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": "Friday",
-        "opens": "09:00",
-        "closes": "13:00"
       }
     ],
-    "image": "__BASE_URL__/images/full_portrait.jpeg",
-    "sameAs": [
-      "https://facebook.com/odelia.law",
-      "https://instagram.com/odelia.law",
-      "https://linkedin.com/in/odelia-law"
-    ]
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.1556,
+      "longitude": 34.8885
+    },
+    "founder": {
+      "@type": "Person",
+      "name": "עו״ד אודליה אייזנקייט",
+      "jobTitle": "עורכת דין ומגשרת מוסמכת",
+      "knowsAbout": ["דיני משפחה", "גישור", "צוואות וירושות", "ייפוי כוח מתמשך"]
+    },
+    "image": "__BASE_URL__/images/og-card.jpg"
   }
   </script>
 </head>
@@ -165,7 +170,7 @@
           <span>ייעוץ משפטי מקצועי</span>
         </div>
 
-        <h1><span class="highlight" data-config="lawyerName">אודליה אייזנקייט</span></h1>
+        <h1>עו״ד <span class="highlight" data-config="lawyerName">אודליה אייזנקייט</span> – דיני משפחה, גישור, צוואות וייפוי כוח מתמשך בהוד השרון</h1>
         <p class="hero-subtitle" data-config="lawyerTitle">עו״ד ומגשרת</p>
         <p class="hero-description">ליווי משפטי מקצועי ואמפתי בדיני משפחה, גישור, צוואות וירושות, ייפוי כוח מתמשך, דיני חברות וליווי עסקי מקיף. כל לקוח מקבל יחס אישי, מענה מהיר ופתרונות מותאמים למציאות חייו.</p>
 
@@ -206,7 +211,7 @@
 
       <div class="hero-image">
         <div class="hero-portrait-wrapper">
-          <img src="images/full_portrait.jpeg" alt="עו״ד אודליה אייזנקייט - תמונת פרופיל" loading="eager">
+          <img src="images/full_portrait.jpeg" alt="עו״ד אודליה אייזנקייט - תמונת פרופיל" width="599" height="1024" loading="eager" fetchpriority="high">
           <div class="hero-portrait-frame" aria-hidden="true"></div>
         </div>
       </div>
@@ -226,7 +231,7 @@
         <div class="about-grid">
           <div class="about-image-area animate-on-scroll">
             <div class="about-image-wrapper">
-              <img src="images/full_portrait.jpeg" alt="עו״ד אודליה אייזנקייט" loading="lazy">
+              <img src="images/full_portrait.jpeg" alt="עו״ד אודליה אייזנקייט" width="599" height="1024" loading="lazy">
             </div>
             <div class="about-experience-badge">
               <span class="number" data-config="lawyerExperienceYears">12</span>

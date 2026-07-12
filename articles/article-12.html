@@ -108,6 +108,17 @@
   }
 }
     </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "דף הבית", "item": "__BASE_URL__/"},
+        {"@type": "ListItem", "position": 2, "name": "מאמרים", "item": "__BASE_URL__/articles.html"},
+        {"@type": "ListItem", "position": 3, "name": "ליווי משפטי לחברות – טעויות נפוצות בתחילת הדרך", "item": "__BASE_URL__/articles/article-12.html"}
+      ]
+    }
+    </script>
 </head>
 <body>
 
@@ -115,6 +126,7 @@
     <nav class="article-nav">
         <div class="container">
             <a href="../index.html" class="article-nav-logo" id="nav-logo-name">עו"ד אודליה אייזנקייט</a>
+            <a href="../articles.html" class="article-nav-back">כל המאמרים</a>
             <a href="../index.html" class="article-nav-back">חזרה לדף הבית &larr;</a>
         </div>
     </nav>
@@ -139,7 +151,7 @@
     <!-- Article Content -->
     <main class="article-page-content">
         <figure class="article-page-image">
-            <img src="../images/article-12.jpg" alt="תוכנית אדריכלית מקופלת לצד מחוגה ועט נובע" width="1280" height="640" decoding="async">
+            <img src="../images/article-12.jpg" fetchpriority="high" alt="תוכנית אדריכלית מקופלת לצד מחוגה ועט נובע" width="1280" height="640" decoding="async">
         </figure>
 
 
@@ -284,11 +296,24 @@
 
         <p>ההשקעה בליווי משפטי בתחילת הדרך – ניסוח הסכם מייסדים, בחירת מבנה התאגדות נכון, הסדרת קניין רוחני והתאמה רגולטורית – היא השקעה שמשתלמת פי כמה. מוטב לבנות את הבית על יסודות חזקים, מאשר לנסות לתקן סדקים כשהמבנה כבר עומד.</p>
 
+
+        <!-- Related articles -->
+        <aside class="article-related">
+            <h3>מאמרים קשורים</h3>
+            <ul>
+                <li><a href="article-10.html">ניהול סיכונים משפטיים – למה חשוב לטפל נכון כבר מהשלב הראשון</a></li>
+                <li><a href="article-11.html">אחריות דירקטורים ונושאי משרה – מה חשוב לדעת</a></li>
+                <li><a href="article-13.html">חשיבות ממשל תאגידי תקין בחברות ובתאגידים</a></li>
+            </ul>
+            <p><a href="../articles.html">לכל המאמרים &larr;</a></p>
+        </aside>
+
         <!-- CTA Box -->
         <div class="article-cta-box">
             <h3>מקימים חברה או סטארטאפ?</h3>
             <p>נשמח ללוות אתכם מהשלב הראשון – בחירת מבנה התאגדות, הסכם מייסדים, הסדרת קניין רוחני וכל ההיבטים המשפטיים הנדרשים.</p>
-            <a href="../index.html#contact" class="btn btn-primary" id="cta-button">לייעוץ ראשוני</a>
+            <a href="tel:+9720502899933" class="btn btn-primary" id="cta-button">חייגו 050-2899933</a>
+            <a href="https://wa.me/9720502899933" class="btn btn-secondary" target="_blank" rel="noopener">שלחו הודעת וואטסאפ</a>
         </div>
 
         <a href="../index.html" class="article-back-link">&rarr; חזרה לדף הבית</a>

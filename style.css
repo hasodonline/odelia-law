@@ -2,8 +2,6 @@
    עו"ד אודליה – עיצוב מקצועי
    ============================================ */
 
-/* === Google Fonts Import === */
-@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&family=Heebo:wght@100;300;400;500;700;800;900&display=swap');
 
 /* === CSS Variables === */
 :root {
@@ -1853,3 +1851,23 @@ ul, ol {
     color: #000;
   }
 }
+
+/* === Related articles (topic clusters) === */
+.article-related {
+    margin: 48px 0 32px;
+    padding: 28px 32px;
+    background: #f7f8fa;
+    border-right: 4px solid var(--gold, #c9a961);
+    border-radius: 8px;
+}
+.article-related h3 {
+    margin: 0 0 16px;
+    font-size: 1.25rem;
+    color: var(--navy, #16243d);
+}
+.article-related ul { margin: 0; padding: 0 20px 0 0; }
+.article-related li { margin-bottom: 10px; line-height: 1.6; }
+.article-related a { color: var(--navy, #16243d); text-decoration: none; border-bottom: 1px solid transparent; }
+.article-related a:hover { border-bottom-color: var(--gold, #c9a961); }
+.article-related p { margin: 16px 0 0; }
+.article-related p a { font-weight: 600; }
